@@ -1,0 +1,5462 @@
+[
+  {
+    "Login": "Adairialis76",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Bonecarvin Battle Axe",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Aduephos78",
+    "Idade": 37,
+    "Sexo": "Masculino",
+    "Item": "Alpha, Oath of Zeal",
+    "Valor": 2.88
+  },
+  {
+    "Login": "Aduephos78",
+    "Idade": 37,
+    "Sexo": "Masculino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Aduephos78",
+    "Idade": 37,
+    "Sexo": "Masculino",
+    "Item": "Primitive Blade",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Aeduera68",
+    "Idade": 26,
+    "Sexo": "Masculino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Aeduera68",
+    "Idade": 26,
+    "Sexo": "Masculino",
+    "Item": "Crying Steel Sickle",
+    "Valor": 2.29
+  },
+  {
+    "Login": "Aeduera68",
+    "Idade": 26,
+    "Sexo": "Masculino",
+    "Item": "Soul-Forged Steel Shortsword",
+    "Valor": 1.16
+  },
+  {
+    "Login": "Aela49",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Bonecarvin Battle Axe",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Aela59",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Mace",
+    "Valor": 1.27
+  },
+  {
+    "Login": "Aelalis34",
+    "Idade": 38,
+    "Sexo": "Masculino",
+    "Item": "Blade of the Grave",
+    "Valor": 1.69
+  },
+  {
+    "Login": "Aelalis34",
+    "Idade": 38,
+    "Sexo": "Masculino",
+    "Item": "Bone Crushing Silver Skewer",
+    "Valor": 3.37
+  },
+  {
+    "Login": "Aelin32",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Eternal Cleaver",
+    "Valor": 3.14
+  },
+  {
+    "Login": "Aeliriam77",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Orenmir",
+    "Valor": 4.95
+  },
+  {
+    "Login": "Aeliriam77",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Torchlight, Bond of Storms",
+    "Valor": 1.77
+  },
+  {
+    "Login": "Aeliriarin93",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Thorn, Conqueror of the Corrupted",
+    "Valor": 2.04
+  },
+  {
+    "Login": "Aeliru63",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Stormcaller",
+    "Valor": 3.46
+  },
+  {
+    "Login": "Aeliru63",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Longsword",
+    "Valor": 4.83
+  },
+  {
+    "Login": "Aellyria80",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Whistling Mithril Warblade",
+    "Valor": 4.32
+  },
+  {
+    "Login": "Aellyrialis39",
+    "Idade": 33,
+    "Sexo": "Masculino",
+    "Item": "Darkheart",
+    "Valor": 3.15
+  },
+  {
+    "Login": "Aellysup38",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Splitter, Foe Of Subtlety",
+    "Valor": 3.61
+  },
+  {
+    "Login": "Aelollo59",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Fate, Vengeance of Eternal Justice",
+    "Valor": 1.55
+  },
+  {
+    "Login": "Aenarap34",
+    "Idade": 22,
+    "Sexo": "Feminino",
+    "Item": "Lightning, Etcher of the King",
+    "Valor": 1.65
+  },
+  {
+    "Login": "Aenasu69",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Persuasion",
+    "Valor": 3.45
+  },
+  {
+    "Login": "Aeral43",
+    "Idade": 19,
+    "Sexo": "Feminino",
+    "Item": "Venom Claymore",
+    "Valor": 2.72
+  },
+  {
+    "Login": "Aeral85",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Spectral Diamond Doomblade",
+    "Valor": 4.25
+  },
+  {
+    "Login": "Aeral97",
+    "Idade": 14,
+    "Sexo": "Masculino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Aeri84",
+    "Idade": 19,
+    "Sexo": "Feminino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Aeri84",
+    "Idade": 19,
+    "Sexo": "Feminino",
+    "Item": "Spectral Diamond Doomblade",
+    "Valor": 4.25
+  },
+  {
+    "Login": "Aerillorin70",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Wolf, Promise of the Moonwalker",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Aerithllora36",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Dreamkiss",
+    "Valor": 4.06
+  },
+  {
+    "Login": "Aerithllora36",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Persuasion",
+    "Valor": 3.45
+  },
+  {
+    "Login": "Aerithllora36",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Storm-Weaver, Slayer of Inception",
+    "Valor": 2.49
+  },
+  {
+    "Login": "Aerithnucal56",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Blade of the Grave",
+    "Valor": 1.69
+  },
+  {
+    "Login": "Aerithnucal56",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Serenity",
+    "Valor": 1.49
+  },
+  {
+    "Login": "Aerithnuphos61",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Blade of the Grave",
+    "Valor": 1.69
+  },
+  {
+    "Login": "Aerithriaphos45",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Foul Edge",
+    "Valor": 2.38
+  },
+  {
+    "Login": "Aesty51",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Mourning Blade",
+    "Valor": 1.82
+  },
+  {
+    "Login": "Aesur96",
+    "Idade": 34,
+    "Sexo": "Masculino",
+    "Item": "Warped Diamond Crusader",
+    "Valor": 4.66
+  },
+  {
+    "Login": "Aethe80",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Stormbringer, Dark Blade of Ending Misery",
+    "Valor": 2.32
+  },
+  {
+    "Login": "Aethedru70",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Relentless Iron Skewer",
+    "Valor": 2.97
+  },
+  {
+    "Login": "Aidain51",
+    "Idade": 26,
+    "Sexo": "Masculino",
+    "Item": "Dreamkiss",
+    "Valor": 4.06
+  },
+  {
+    "Login": "Aidain51",
+    "Idade": 26,
+    "Sexo": "Masculino",
+    "Item": "Stormcaller",
+    "Valor": 3.46
+  },
+  {
+    "Login": "Aidaira26",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Brutality Ivory Warmace",
+    "Valor": 1.72
+  },
+  {
+    "Login": "Aidaira48",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Sleepwalker",
+    "Valor": 1.73
+  },
+  {
+    "Login": "Aiduecal76",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Glimmer, Ender of the Moon",
+    "Valor": 2.33
+  },
+  {
+    "Login": "Aiduesu83",
+    "Idade": 29,
+    "Sexo": "Feminino",
+    "Item": "Heartless Bone Dualblade",
+    "Valor": 2.63
+  },
+  {
+    "Login": "Ailaesuir66",
+    "Idade": 22,
+    "Sexo": "Feminino",
+    "Item": "Wolf, Promise of the Moonwalker",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Aillycal84",
+    "Idade": 12,
+    "Sexo": "Outro",
+    "Item": "Blazeguard, Reach of Eternity",
+    "Valor": 4.0
+  },
+  {
+    "Login": "Aillyriadru65",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Wolf",
+    "Valor": 1.84
+  },
+  {
+    "Login": "Aina42",
+    "Idade": 27,
+    "Sexo": "Feminino",
+    "Item": "Oathbreaker, Spellblade of Trials",
+    "Valor": 3.01
+  },
+  {
+    "Login": "Aina43",
+    "Idade": 21,
+    "Sexo": "Feminino",
+    "Item": "Primitive Blade",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Airal46",
+    "Idade": 35,
+    "Sexo": "Masculino",
+    "Item": "Solitude's Reaver",
+    "Valor": 2.67
+  },
+  {
+    "Login": "Airi27",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Hopeless Ebon Dualblade",
+    "Valor": 4.75
+  },
+  {
+    "Login": "Airi27",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "The Void, Vengeance of Dark Magic",
+    "Valor": 2.82
+  },
+  {
+    "Login": "Airidil41",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Hellreaver, Heirloom of Inception",
+    "Valor": 3.59
+  },
+  {
+    "Login": "Airithrin43",
+    "Idade": 31,
+    "Sexo": "Feminino",
+    "Item": "Amnesia",
+    "Valor": 3.57
+  },
+  {
+    "Login": "Aisur51",
+    "Idade": 21,
+    "Sexo": "Feminino",
+    "Item": "Serenity",
+    "Valor": 1.49
+  },
+  {
+    "Login": "Aisurphos78",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Hailstorm Shadowsteel Scythe",
+    "Valor": 3.73
+  },
+  {
+    "Login": "Aithelis62",
+    "Idade": 32,
+    "Sexo": "Outro",
+    "Item": "Chaos, Ender of the End",
+    "Valor": 3.79
+  },
+  {
+    "Login": "Alaephos75",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Retribution Axe",
+    "Valor": 4.14
+  },
+  {
+    "Login": "Alaephos75",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Storm-Weaver, Slayer of Inception",
+    "Valor": 2.49
+  },
+  {
+    "Login": "Alaesu77",
+    "Idade": 32,
+    "Sexo": "Masculino",
+    "Item": "Glimmer, Ender of the Moon",
+    "Valor": 2.33
+  },
+  {
+    "Login": "Alaesu91",
+    "Idade": 18,
+    "Sexo": "Feminino",
+    "Item": "Singed Onyx Warscythe",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Alallo58",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Retribution Axe",
+    "Valor": 4.14
+  },
+  {
+    "Login": "Alarap40",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Venom Claymore",
+    "Valor": 2.72
+  },
+  {
+    "Login": "Alim85",
+    "Idade": 23,
+    "Sexo": "Feminino",
+    "Item": "Splitter, Foe Of Subtlety",
+    "Valor": 3.61
+  },
+  {
+    "Login": "Alo67",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Suspension",
+    "Valor": 2.11
+  },
+  {
+    "Login": "Anallorgue57",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Singed Scalpel",
+    "Valor": 4.87
+  },
+  {
+    "Login": "Arithllorin55",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Ritual Mace",
+    "Valor": 3.74
+  },
+  {
+    "Login": "Assassa38",
+    "Idade": 34,
+    "Sexo": "Outro",
+    "Item": "War-Forged Gold Deflector",
+    "Valor": 3.73
+  },
+  {
+    "Login": "Assassa38",
+    "Idade": 34,
+    "Sexo": "Outro",
+    "Item": "Wolf, Promise of the Moonwalker",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Assassa43",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Hope's End",
+    "Valor": 3.89
+  },
+  {
+    "Login": "Assassasda84",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Hope's End",
+    "Valor": 3.89
+  },
+  {
+    "Login": "Assassasta79",
+    "Idade": 17,
+    "Sexo": "Feminino",
+    "Item": "The Oculus, Token of Lost Worlds",
+    "Valor": 4.23
+  },
+  {
+    "Login": "Assassasta79",
+    "Idade": 17,
+    "Sexo": "Feminino",
+    "Item": "Winterthorn, Defender of Shifting Worlds",
+    "Valor": 4.89
+  },
+  {
+    "Login": "Assastnya25",
+    "Idade": 34,
+    "Sexo": "Masculino",
+    "Item": "Crying Steel Sickle",
+    "Valor": 2.29
+  },
+  {
+    "Login": "Assastnya25",
+    "Idade": 34,
+    "Sexo": "Masculino",
+    "Item": "Primitive Blade",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Assesi91",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Sleepwalker",
+    "Valor": 1.73
+  },
+  {
+    "Login": "Assilsan72",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Fusion Pummel",
+    "Valor": 3.58
+  },
+  {
+    "Login": "Assistasda90",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Stormcaller",
+    "Valor": 3.46
+  },
+  {
+    "Login": "Assistast50",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Victor Iron Spikes",
+    "Valor": 3.55
+  },
+  {
+    "Login": "Assithasta65",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Splitter, Foe Of Subtlety",
+    "Valor": 3.61
+  },
+  {
+    "Login": "Assosia38",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Shadow Strike, Glory of Ending Hope",
+    "Valor": 1.93
+  },
+  {
+    "Login": "Assosiasta83",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "The Void, Vengeance of Dark Magic",
+    "Valor": 2.82
+  },
+  {
+    "Login": "Assossa43",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Winterthorn, Defender of Shifting Worlds",
+    "Valor": 4.89
+  },
+  {
+    "Login": "Assylla81",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Crucifer",
+    "Valor": 2.53
+  },
+  {
+    "Login": "Assylla81",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Whistling Mithril Warblade",
+    "Valor": 4.32
+  },
+  {
+    "Login": "Astydil38",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Heartseeker, Reaver of Souls",
+    "Valor": 3.21
+  },
+  {
+    "Login": "Asur53",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Fate, Vengeance of Eternal Justice",
+    "Valor": 1.55
+  },
+  {
+    "Login": "Asur53",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Storm-Weaver, Slayer of Inception",
+    "Valor": 2.49
+  },
+  {
+    "Login": "Baelollodeu94",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Crucifer",
+    "Valor": 2.53
+  },
+  {
+    "Login": "Bartassaya73",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Purgatory, Gem of Regret",
+    "Valor": 3.91
+  },
+  {
+    "Login": "Billysu76",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Blood Infused Guardian",
+    "Valor": 2.86
+  },
+  {
+    "Login": "Chadadarya31",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Splinter",
+    "Valor": 1.82
+  },
+  {
+    "Login": "Chadanto83",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Darkheart, Butcher of the Champion",
+    "Valor": 3.56
+  },
+  {
+    "Login": "Chadanto83",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Endbringer",
+    "Valor": 2.67
+  },
+  {
+    "Login": "Chadjask77",
+    "Idade": 36,
+    "Sexo": "Masculino",
+    "Item": "Despair, Favor of Due Diligence",
+    "Valor": 3.81
+  },
+  {
+    "Login": "Chadjask77",
+    "Idade": 36,
+    "Sexo": "Masculino",
+    "Item": "Toothpick",
+    "Valor": 3.48
+  },
+  {
+    "Login": "Chadjask77",
+    "Idade": 36,
+    "Sexo": "Masculino",
+    "Item": "Venom Claymore",
+    "Valor": 2.72
+  },
+  {
+    "Login": "Chadossa56",
+    "Idade": 37,
+    "Sexo": "Feminino",
+    "Item": "Heartstriker, Legacy of the Light",
+    "Valor": 4.15
+  },
+  {
+    "Login": "Chadossa56",
+    "Idade": 37,
+    "Sexo": "Feminino",
+    "Item": "Primitive Blade",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Chadossa56",
+    "Idade": 37,
+    "Sexo": "Feminino",
+    "Item": "Woeful Adamantite Claymore",
+    "Valor": 1.24
+  },
+  {
+    "Login": "Chadossa89",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Bonecarvin Battle Axe",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Chamadar27",
+    "Idade": 40,
+    "Sexo": "Feminino",
+    "Item": "The Oculus, Token of Lost Worlds",
+    "Valor": 4.23
+  },
+  {
+    "Login": "Chamadar61",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Feral Katana",
+    "Valor": 2.19
+  },
+  {
+    "Login": "Chamadar61",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Toothpick",
+    "Valor": 3.48
+  },
+  {
+    "Login": "Chamadar79",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Dawne",
+    "Valor": 4.3
+  },
+  {
+    "Login": "Chamadarnya73",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Dawne",
+    "Valor": 4.3
+  },
+  {
+    "Login": "Chamadarsda63",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Bonecarvin Battle Axe",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Chamastya76",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Vengeance Cleaver",
+    "Valor": 3.7
+  },
+  {
+    "Login": "Chamilsala65",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Azurewrath",
+    "Valor": 2.22
+  },
+  {
+    "Login": "Chamilsala65",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Ghastly Adamantite Protector",
+    "Valor": 3.3
+  },
+  {
+    "Login": "Chamilsan75",
+    "Idade": 24,
+    "Sexo": "Feminino",
+    "Item": "Betrayer",
+    "Valor": 1.67
+  },
+  {
+    "Login": "Chamilsan75",
+    "Idade": 24,
+    "Sexo": "Feminino",
+    "Item": "Ragnarok",
+    "Valor": 3.97
+  },
+  {
+    "Login": "Chamim85",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Haunted Bronzed Bludgeon",
+    "Valor": 4.12
+  },
+  {
+    "Login": "Chamimla73",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Souleater",
+    "Valor": 3.27
+  },
+  {
+    "Login": "Chamirra53",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Lantern",
+    "Valor": 1.28
+  },
+  {
+    "Login": "Chamirrasya33",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Nirvana",
+    "Valor": 1.11
+  },
+  {
+    "Login": "Chamirraya83",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Alpha",
+    "Valor": 1.56
+  },
+  {
+    "Login": "Chamirraya83",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Persuasion",
+    "Valor": 3.45
+  },
+  {
+    "Login": "Chamistast30",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Chamistast30",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Chamistast30",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Torchlight, Bond of Storms",
+    "Valor": 1.77
+  },
+  {
+    "Login": "Chamjasknya65",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Crucifer",
+    "Valor": 2.53
+  },
+  {
+    "Login": "Chamjasknya65",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Hero Cane",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Chamosia29",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Chamosia29",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Despair, Favor of Due Diligence",
+    "Valor": 3.81
+  },
+  {
+    "Login": "Chamucosda93",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Darkheart, Butcher of the Champion",
+    "Valor": 3.56
+  },
+  {
+    "Login": "Chanadar44",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Fusion Pummel",
+    "Valor": 3.58
+  },
+  {
+    "Login": "Chanadar44",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Splitter, Foe Of Subtlety",
+    "Valor": 3.61
+  },
+  {
+    "Login": "Chanassa48",
+    "Idade": 37,
+    "Sexo": "Masculino",
+    "Item": "Winter's Bite",
+    "Valor": 1.39
+  },
+  {
+    "Login": "Chanastnya43",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Gladiator's Glaive",
+    "Valor": 1.36
+  },
+  {
+    "Login": "Chanastsda67",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Celeste, Incarnation of the Corrupted",
+    "Valor": 2.31
+  },
+  {
+    "Login": "Chanastsda67",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Deluge, Edge of the West",
+    "Valor": 2.2
+  },
+  {
+    "Login": "Chanastsda67",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Fiery Glass Crusader",
+    "Valor": 4.45
+  },
+  {
+    "Login": "Chanastst38",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Darkheart",
+    "Valor": 3.15
+  },
+  {
+    "Login": "Chanastst38",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Souleater",
+    "Valor": 3.27
+  },
+  {
+    "Login": "Chanirra56",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Blazefury, Protector of Delusions",
+    "Valor": 1.5
+  },
+  {
+    "Login": "Chanirra79",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Relentless Iron Skewer",
+    "Valor": 2.97
+  },
+  {
+    "Login": "Chanirrala39",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Bone Crushing Silver Skewer",
+    "Valor": 3.37
+  },
+  {
+    "Login": "Chanirrala39",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Feral Katana",
+    "Valor": 2.19
+  },
+  {
+    "Login": "Chanirrasta87",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Deluge, Edge of the West",
+    "Valor": 2.2
+  },
+  {
+    "Login": "Chanirrasta87",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Orbit",
+    "Valor": 1.16
+  },
+  {
+    "Login": "Chanjask65",
+    "Idade": 36,
+    "Sexo": "Masculino",
+    "Item": "Putrid Fan",
+    "Valor": 1.32
+  },
+  {
+    "Login": "Chanjask65",
+    "Idade": 36,
+    "Sexo": "Masculino",
+    "Item": "Trickster",
+    "Valor": 2.07
+  },
+  {
+    "Login": "Chanjaskan37",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Eternal Cleaver",
+    "Valor": 3.14
+  },
+  {
+    "Login": "Chanjaskan89",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Soul Infused Crystal",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Chanjaskan89",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Unholy Wand",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Chanosia60",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Interrogator, Blood Blade of the Queen",
+    "Valor": 3.32
+  },
+  {
+    "Login": "Chanosia60",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Massacre",
+    "Valor": 3.42
+  },
+  {
+    "Login": "Chanosia65",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Dragon's Greatsword",
+    "Valor": 2.36
+  },
+  {
+    "Login": "Chanosiast43",
+    "Idade": 13,
+    "Sexo": "Feminino",
+    "Item": "Heartstriker, Legacy of the Light",
+    "Valor": 4.15
+  },
+  {
+    "Login": "Chanosiast43",
+    "Idade": 13,
+    "Sexo": "Feminino",
+    "Item": "Torchlight, Bond of Storms",
+    "Valor": 1.77
+  },
+  {
+    "Login": "Chanosiaya39",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Blood Infused Guardian",
+    "Valor": 2.86
+  },
+  {
+    "Login": "Chanosiaya39",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Hope's End",
+    "Valor": 3.89
+  },
+  {
+    "Login": "Chanosseya79",
+    "Idade": 16,
+    "Sexo": "Feminino",
+    "Item": "Blazeguard, Reach of Eternity",
+    "Valor": 4.0
+  },
+  {
+    "Login": "Chrathybust28",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Gladiator's Glaive",
+    "Valor": 1.36
+  },
+  {
+    "Login": "Cosadar58",
+    "Idade": 35,
+    "Sexo": "Feminino",
+    "Item": "Apocalyptic Battlescythe",
+    "Valor": 3.91
+  },
+  {
+    "Login": "Crausirra42",
+    "Idade": 15,
+    "Sexo": "Feminino",
+    "Item": "Worldbreaker",
+    "Valor": 3.29
+  },
+  {
+    "Login": "Deelilsasya30",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Shadowsteel",
+    "Valor": 1.98
+  },
+  {
+    "Login": "Deural48",
+    "Idade": 11,
+    "Sexo": "Feminino",
+    "Item": "Brimstone",
+    "Valor": 2.52
+  },
+  {
+    "Login": "Deural48",
+    "Idade": 11,
+    "Sexo": "Feminino",
+    "Item": "Hopeless Ebon Dualblade",
+    "Valor": 4.75
+  },
+  {
+    "Login": "Dyally87",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Thorn, Satchel of Dark Souls",
+    "Valor": 4.51
+  },
+  {
+    "Login": "Ennoncil86",
+    "Idade": 32,
+    "Sexo": "Masculino",
+    "Item": "Agatha",
+    "Valor": 1.91
+  },
+  {
+    "Login": "Eoda93",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Haunted Bronzed Bludgeon",
+    "Valor": 4.12
+  },
+  {
+    "Login": "Eoda93",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Heartless Bone Dualblade",
+    "Valor": 2.63
+  },
+  {
+    "Login": "Eoda93",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Longsword",
+    "Valor": 4.83
+  },
+  {
+    "Login": "Eodailis27",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Victor Iron Spikes",
+    "Valor": 3.55
+  },
+  {
+    "Login": "Eoduenurin62",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Serenity",
+    "Valor": 1.49
+  },
+  {
+    "Login": "Eollym91",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Lantern",
+    "Valor": 1.28
+  },
+  {
+    "Login": "Eolo46",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Stormbringer, Dark Blade of Ending Misery",
+    "Valor": 2.32
+  },
+  {
+    "Login": "Eoral49",
+    "Idade": 16,
+    "Sexo": "Feminino",
+    "Item": "Wolf",
+    "Valor": 1.84
+  },
+  {
+    "Login": "Eoralphos86",
+    "Idade": 13,
+    "Sexo": "Feminino",
+    "Item": "Renewed Skeletal Katana",
+    "Valor": 2.37
+  },
+  {
+    "Login": "Eoralphos86",
+    "Idade": 13,
+    "Sexo": "Feminino",
+    "Item": "Unholy Wand",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Eosrirgue62",
+    "Idade": 34,
+    "Sexo": "Masculino",
+    "Item": "Dragon's Greatsword",
+    "Valor": 2.36
+  },
+  {
+    "Login": "Eosur70",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Blazeguard, Reach of Eternity",
+    "Valor": 4.0
+  },
+  {
+    "Login": "Eosur70",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Severance",
+    "Valor": 1.85
+  },
+  {
+    "Login": "Eosurdru76",
+    "Idade": 7,
+    "Sexo": "Feminino",
+    "Item": "Darkheart, Butcher of the Champion",
+    "Valor": 3.56
+  },
+  {
+    "Login": "Eosurdru76",
+    "Idade": 7,
+    "Sexo": "Feminino",
+    "Item": "Piety, Guardian of Riddles",
+    "Valor": 3.68
+  },
+  {
+    "Login": "Eosursurap97",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Eothe56",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Frenzied Scimitar",
+    "Valor": 2.6
+  },
+  {
+    "Login": "Eratiel90",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Crying Steel Sickle",
+    "Valor": 2.29
+  },
+  {
+    "Login": "Ermol76",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Yearning Mageblade",
+    "Valor": 1.79
+  },
+  {
+    "Login": "Erudrion71",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Devine",
+    "Valor": 1.45
+  },
+  {
+    "Login": "Erudrion71",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Unending Tyranny",
+    "Valor": 1.21
+  },
+  {
+    "Login": "Eryon48",
+    "Idade": 15,
+    "Sexo": "Feminino",
+    "Item": "Suspension",
+    "Valor": 2.11
+  },
+  {
+    "Login": "Ethralan59",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Severance",
+    "Valor": 1.85
+  },
+  {
+    "Login": "Ethralista69",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Hatred",
+    "Valor": 4.39
+  },
+  {
+    "Login": "Ethruard50",
+    "Idade": 24,
+    "Sexo": "Feminino",
+    "Item": "Endbringer",
+    "Valor": 2.67
+  },
+  {
+    "Login": "Ethruard50",
+    "Idade": 24,
+    "Sexo": "Feminino",
+    "Item": "Freak's Bite, Favor of Holy Might",
+    "Valor": 3.03
+  },
+  {
+    "Login": "Ethrusuard41",
+    "Idade": 10,
+    "Sexo": "Masculino",
+    "Item": "Fury",
+    "Valor": 4.82
+  },
+  {
+    "Login": "Ethrusuard41",
+    "Idade": 10,
+    "Sexo": "Masculino",
+    "Item": "Restored Bauble",
+    "Valor": 3.11
+  },
+  {
+    "Login": "Eudasu82",
+    "Idade": 33,
+    "Sexo": "Masculino",
+    "Item": "Lifebender",
+    "Valor": 3.51
+  },
+  {
+    "Login": "Eula35",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Deadline, Voice Of Subtlety",
+    "Valor": 3.62
+  },
+  {
+    "Login": "Eulaeria40",
+    "Idade": 21,
+    "Sexo": "Feminino",
+    "Item": "War-Forged Gold Deflector",
+    "Valor": 3.73
+  },
+  {
+    "Login": "Eulidru49",
+    "Idade": 16,
+    "Sexo": "Feminino",
+    "Item": "Curved Axe",
+    "Valor": 1.35
+  },
+  {
+    "Login": "Eulidru49",
+    "Idade": 16,
+    "Sexo": "Feminino",
+    "Item": "Shadowsteel",
+    "Valor": 1.98
+  },
+  {
+    "Login": "Euliria52",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Abyssal Shard",
+    "Valor": 2.04
+  },
+  {
+    "Login": "Eullydru35",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Euna48",
+    "Idade": 22,
+    "Sexo": "Outro",
+    "Item": "Spectral Diamond Doomblade",
+    "Valor": 4.25
+  },
+  {
+    "Login": "Eural50",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Deadline, Voice Of Subtlety",
+    "Valor": 3.62
+  },
+  {
+    "Login": "Eural50",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Dreamkiss",
+    "Valor": 4.06
+  },
+  {
+    "Login": "Eurallo89",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Apocalyptic Battlescythe",
+    "Valor": 3.91
+  },
+  {
+    "Login": "Eurallo89",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Blade of the Grave",
+    "Valor": 1.69
+  },
+  {
+    "Login": "Eurinu48",
+    "Idade": 23,
+    "Sexo": "Feminino",
+    "Item": "Exiled Mithril Longsword",
+    "Valor": 3.25
+  },
+  {
+    "Login": "Eurisuru25",
+    "Idade": 27,
+    "Sexo": "Outro",
+    "Item": "Rage, Legacy of the Lone Victor",
+    "Valor": 4.32
+  },
+  {
+    "Login": "Eurisuru25",
+    "Idade": 27,
+    "Sexo": "Outro",
+    "Item": "Ragnarok",
+    "Valor": 3.97
+  },
+  {
+    "Login": "Eurith26",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Mercy, Katana of Dismay",
+    "Valor": 4.37
+  },
+  {
+    "Login": "Eusri26",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Misery's End",
+    "Valor": 2.91
+  },
+  {
+    "Login": "Eusri44",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Dawn",
+    "Valor": 2.55
+  },
+  {
+    "Login": "Eusri70",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Fury",
+    "Valor": 4.82
+  },
+  {
+    "Login": "Eusri70",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Mercenary Sabre",
+    "Valor": 4.57
+  },
+  {
+    "Login": "Eusri70",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Orbit",
+    "Valor": 1.16
+  },
+  {
+    "Login": "Eustyria89",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Aetherius, Boon of the Blessed",
+    "Valor": 4.75
+  },
+  {
+    "Login": "Eusur90",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Agatha",
+    "Valor": 1.91
+  },
+  {
+    "Login": "Eusur90",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Stormcaller",
+    "Valor": 3.46
+  },
+  {
+    "Login": "Eyircil84",
+    "Idade": 23,
+    "Sexo": "Feminino",
+    "Item": "Yearning Crusher",
+    "Valor": 1.06
+  },
+  {
+    "Login": "Faralcil63",
+    "Idade": 26,
+    "Sexo": "Outro",
+    "Item": "Persuasion",
+    "Valor": 3.45
+  },
+  {
+    "Login": "Farenon57",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Singed Scalpel",
+    "Valor": 4.87
+  },
+  {
+    "Login": "Farenon57",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Torchlight, Bond of Storms",
+    "Valor": 1.77
+  },
+  {
+    "Login": "Farusrian86",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Feral Katana",
+    "Valor": 2.19
+  },
+  {
+    "Login": "Farusrian86",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Filon68",
+    "Idade": 38,
+    "Sexo": "Masculino",
+    "Item": "Second Chance",
+    "Valor": 2.34
+  },
+  {
+    "Login": "Filrion44",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Deadline, Voice Of Subtlety",
+    "Valor": 3.62
+  },
+  {
+    "Login": "Filrion44",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Storm-Weaver, Slayer of Inception",
+    "Valor": 2.49
+  },
+  {
+    "Login": "Filrion59",
+    "Idade": 35,
+    "Sexo": "Masculino",
+    "Item": "Trickster",
+    "Valor": 2.07
+  },
+  {
+    "Login": "Fironon91",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Glinting Glass Edge",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Frichadar89",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "The Oculus, Token of Lost Worlds",
+    "Valor": 4.23
+  },
+  {
+    "Login": "Frichassala85",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Frenzy, Defender of the Harvest",
+    "Valor": 1.06
+  },
+  {
+    "Login": "Frichassala85",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Yearning Mageblade",
+    "Valor": 1.79
+  },
+  {
+    "Login": "Frichast72",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Deluge, Edge of the West",
+    "Valor": 2.2
+  },
+  {
+    "Login": "Frichaststa61",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Orenmir",
+    "Valor": 4.95
+  },
+  {
+    "Login": "Frichaya88",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Endbringer",
+    "Valor": 2.67
+  },
+  {
+    "Login": "Frichaya88",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Lifebender",
+    "Valor": 3.51
+  },
+  {
+    "Login": "Frichaya88",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Spectral Bone Axe",
+    "Valor": 2.98
+  },
+  {
+    "Login": "Frichilsasya78",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Ritual Mace",
+    "Valor": 3.74
+  },
+  {
+    "Login": "Frichim27",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Reaper's Toll",
+    "Valor": 4.56
+  },
+  {
+    "Login": "Frichim77",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Warmonger, Gift of Suffering's End",
+    "Valor": 3.96
+  },
+  {
+    "Login": "Frichistast39",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Darkheart, Butcher of the Champion",
+    "Valor": 3.56
+  },
+  {
+    "Login": "Frichistasta59",
+    "Idade": 33,
+    "Sexo": "Outro",
+    "Item": "Conqueror Adamantite Mace",
+    "Valor": 1.96
+  },
+  {
+    "Login": "Frichistasta59",
+    "Idade": 33,
+    "Sexo": "Outro",
+    "Item": "Spada, Etcher of Hatred",
+    "Valor": 2.21
+  },
+  {
+    "Login": "Frichjask31",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Malificent Bag",
+    "Valor": 2.17
+  },
+  {
+    "Login": "Frichjaskan98",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Piety, Guardian of Riddles",
+    "Valor": 3.68
+  },
+  {
+    "Login": "Frichosiala98",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Eternal Cleaver",
+    "Valor": 3.14
+  },
+  {
+    "Login": "Frichosiala98",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Twilight's Carver",
+    "Valor": 1.14
+  },
+  {
+    "Login": "Frichosiala98",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Warped Diamond Crusader",
+    "Valor": 4.66
+  },
+  {
+    "Login": "Frichossast75",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Splitter, Foe Of Subtlety",
+    "Valor": 3.61
+  },
+  {
+    "Login": "Frichossast86",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Deadline, Voice Of Subtlety",
+    "Valor": 3.62
+  },
+  {
+    "Login": "Haedasu65",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Faith's Scimitar",
+    "Valor": 3.82
+  },
+  {
+    "Login": "Haedasu65",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Undead Crusader",
+    "Valor": 4.67
+  },
+  {
+    "Login": "Haellysu29",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Blood-Forged Skeletal Spine",
+    "Valor": 4.77
+  },
+  {
+    "Login": "Haellysu29",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Celeste",
+    "Valor": 3.71
+  },
+  {
+    "Login": "Haellysu29",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Thirsty Iron Reaver",
+    "Valor": 4.25
+  },
+  {
+    "Login": "Haerith37",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Crucifer",
+    "Valor": 2.53
+  },
+  {
+    "Login": "Haerith37",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Darkheart, Butcher of the Champion",
+    "Valor": 3.56
+  },
+  {
+    "Login": "Haerith37",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Despair, Favor of Due Diligence",
+    "Valor": 3.81
+  },
+  {
+    "Login": "Haerithp41",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Downfall, Scalpel Of The Emperor",
+    "Valor": 3.2
+  },
+  {
+    "Login": "Hailaphos89",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Netherbane",
+    "Valor": 1.48
+  },
+  {
+    "Login": "Hailaphos89",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Nirvana",
+    "Valor": 1.11
+  },
+  {
+    "Login": "Hailaphos89",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Trickster",
+    "Valor": 2.07
+  },
+  {
+    "Login": "Hailaphos89",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Unending Tyranny",
+    "Valor": 1.21
+  },
+  {
+    "Login": "Hainaria90",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Extraction, Quickblade Of Trembling Hands",
+    "Valor": 3.39
+  },
+  {
+    "Login": "Hala31",
+    "Idade": 38,
+    "Sexo": "Masculino",
+    "Item": "Brutality Ivory Warmace",
+    "Valor": 1.72
+  },
+  {
+    "Login": "Hallysucal81",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Possessed Core",
+    "Valor": 1.59
+  },
+  {
+    "Login": "Heolo60",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Woeful Adamantite Claymore",
+    "Valor": 1.24
+  },
+  {
+    "Login": "Heosrisuir72",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Fury",
+    "Valor": 4.82
+  },
+  {
+    "Login": "Heosurnuru52",
+    "Idade": 7,
+    "Sexo": "Feminino",
+    "Item": "Sleepwalker",
+    "Valor": 1.73
+  },
+  {
+    "Login": "Heuli25",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Toothpick",
+    "Valor": 3.48
+  },
+  {
+    "Login": "Heunadil74",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Striker",
+    "Valor": 3.82
+  },
+  {
+    "Login": "Heuralsti66",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Aetherius, Boon of the Blessed",
+    "Valor": 4.75
+  },
+  {
+    "Login": "Hiadanurin36",
+    "Idade": 10,
+    "Sexo": "Feminino",
+    "Item": "Warmonger, Gift of Suffering's End",
+    "Valor": 3.96
+  },
+  {
+    "Login": "Hiarideu73",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Hiasri33",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Crucifer",
+    "Valor": 2.53
+  },
+  {
+    "Login": "Hiasur92",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Singed Scalpel",
+    "Valor": 4.87
+  },
+  {
+    "Login": "Hilaerin92",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Expiration, Warscythe Of Lost Worlds",
+    "Valor": 4.53
+  },
+  {
+    "Login": "Hilaerin92",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Second Chance",
+    "Valor": 2.34
+  },
+  {
+    "Login": "Hiral75",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Devine",
+    "Valor": 1.45
+  },
+  {
+    "Login": "Hirirap39",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Glimmer, Ender of the Moon",
+    "Valor": 2.33
+  },
+  {
+    "Login": "Iadueria43",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Lazarus, Terror of the Earth",
+    "Valor": 3.47
+  },
+  {
+    "Login": "Iadueria43",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Soul Infused Crystal",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Ialallo29",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Darkheart",
+    "Valor": 3.15
+  },
+  {
+    "Login": "Ialidru40",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Woeful Adamantite Claymore",
+    "Valor": 1.24
+  },
+  {
+    "Login": "Ialistidru50",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Alpha",
+    "Valor": 1.56
+  },
+  {
+    "Login": "Ialistidru50",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Amnesia",
+    "Valor": 3.57
+  },
+  {
+    "Login": "Ialistidru50",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Spada, Etcher of Hatred",
+    "Valor": 2.21
+  },
+  {
+    "Login": "Iallyphos37",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Second Chance",
+    "Valor": 2.34
+  },
+  {
+    "Login": "Ialo60",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Warped Iron Scimitar",
+    "Valor": 4.08
+  },
+  {
+    "Login": "Iaralrgue74",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Mercenary Sabre",
+    "Valor": 4.57
+  },
+  {
+    "Login": "Iaralrgue74",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Phantomlight",
+    "Valor": 1.79
+  },
+  {
+    "Login": "Iaralsuir44",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Hailstorm Shadowsteel Scythe",
+    "Valor": 3.73
+  },
+  {
+    "Login": "Iarilis73",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Shadow Strike, Glory of Ending Hope",
+    "Valor": 1.93
+  },
+  {
+    "Login": "Iarithdil76",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Despair, Favor of Due Diligence",
+    "Valor": 3.81
+  },
+  {
+    "Login": "Iasur80",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Singed Scalpel",
+    "Valor": 4.87
+  },
+  {
+    "Login": "Iathenudil29",
+    "Idade": 29,
+    "Sexo": "Feminino",
+    "Item": "Alpha",
+    "Valor": 1.56
+  },
+  {
+    "Login": "Iathenudil29",
+    "Idade": 29,
+    "Sexo": "Feminino",
+    "Item": "Interrogator, Blood Blade of the Queen",
+    "Valor": 3.32
+  },
+  {
+    "Login": "Idai61",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Glimmer, Ender of the Moon",
+    "Valor": 2.33
+  },
+  {
+    "Login": "Idai61",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Mace",
+    "Valor": 1.27
+  },
+  {
+    "Login": "Idairin80",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Dawne",
+    "Valor": 4.3
+  },
+  {
+    "Login": "Idaria87",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Singed Scalpel",
+    "Valor": 4.87
+  },
+  {
+    "Login": "Iduedru67",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Interrogator, Blood Blade of the Queen",
+    "Valor": 3.32
+  },
+  {
+    "Login": "Ila44",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Primitive Blade",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Ila44",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Shadowsteel",
+    "Valor": 1.98
+  },
+  {
+    "Login": "Ila44",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Verdict",
+    "Valor": 3.4
+  },
+  {
+    "Login": "Iladarla40",
+    "Idade": 8,
+    "Sexo": "Masculino",
+    "Item": "Alpha, Oath of Zeal",
+    "Valor": 2.88
+  },
+  {
+    "Login": "Iladarla40",
+    "Idade": 8,
+    "Sexo": "Masculino",
+    "Item": "Soul Infused Crystal",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Ilaesudil92",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Crucifer",
+    "Valor": 2.53
+  },
+  {
+    "Login": "Ilariarin45",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "The Oculus, Token of Lost Worlds",
+    "Valor": 4.23
+  },
+  {
+    "Login": "Ilassa51",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Spada, Etcher of Hatred",
+    "Valor": 2.21
+  },
+  {
+    "Login": "Ilast79",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Rusty Skull",
+    "Valor": 1.2
+  },
+  {
+    "Login": "Ilaststa70",
+    "Idade": 10,
+    "Sexo": "Feminino",
+    "Item": "Stormfury Mace",
+    "Valor": 1.27
+  },
+  {
+    "Login": "Iliel92",
+    "Idade": 18,
+    "Sexo": "Feminino",
+    "Item": "Vengeance Cleaver",
+    "Valor": 3.7
+  },
+  {
+    "Login": "Ililsa62",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Blindscythe",
+    "Valor": 3.66
+  },
+  {
+    "Login": "Ililsa62",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Ritual Mace",
+    "Valor": 3.74
+  },
+  {
+    "Login": "Ililsan66",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Soul Infused Crystal",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Ilimya66",
+    "Idade": 27,
+    "Sexo": "Feminino",
+    "Item": "Toothpick",
+    "Valor": 3.48
+  },
+  {
+    "Login": "Ilirrasda54",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Splitter, Foe Of Subtlety",
+    "Valor": 3.61
+  },
+  {
+    "Login": "Ilogha82",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Righteous Might",
+    "Valor": 4.36
+  },
+  {
+    "Login": "Ilogha82",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Spectral Diamond Doomblade",
+    "Valor": 4.25
+  },
+  {
+    "Login": "Ilophos58",
+    "Idade": 9,
+    "Sexo": "Masculino",
+    "Item": "Singed Scalpel",
+    "Valor": 4.87
+  },
+  {
+    "Login": "Ilosia37",
+    "Idade": 13,
+    "Sexo": "Feminino",
+    "Item": "Netherbane",
+    "Valor": 1.48
+  },
+  {
+    "Login": "Ilosu82",
+    "Idade": 33,
+    "Sexo": "Masculino",
+    "Item": "The Void, Vengeance of Dark Magic",
+    "Valor": 2.82
+  },
+  {
+    "Login": "Ilrian97",
+    "Idade": 13,
+    "Sexo": "Masculino",
+    "Item": "Woeful Adamantite Claymore",
+    "Valor": 1.24
+  },
+  {
+    "Login": "Ina92",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Deathraze",
+    "Valor": 4.54
+  },
+  {
+    "Login": "Indcil77",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Avenger",
+    "Valor": 4.16
+  },
+  {
+    "Login": "Indcil77",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Mercy, Katana of Dismay",
+    "Valor": 4.37
+  },
+  {
+    "Login": "Indirrian56",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Glinting Glass Edge",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Indonmol95",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Crying Steel Sickle",
+    "Valor": 2.29
+  },
+  {
+    "Login": "Ingatcil75",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Victor Iron Spikes",
+    "Valor": 3.55
+  },
+  {
+    "Login": "Ingatcil75",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Winterthorn, Defender of Shifting Worlds",
+    "Valor": 4.89
+  },
+  {
+    "Login": "Ingonon91",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Alpha, Oath of Zeal",
+    "Valor": 2.88
+  },
+  {
+    "Login": "Inguard95",
+    "Idade": 38,
+    "Sexo": "Masculino",
+    "Item": "Warmonger, Gift of Suffering's End",
+    "Valor": 3.96
+  },
+  {
+    "Login": "Inguron55",
+    "Idade": 26,
+    "Sexo": "Masculino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Iral74",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Swan Song, Gouger Of Terror",
+    "Valor": 3.58
+  },
+  {
+    "Login": "Iri67",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Blazeguard, Reach of Eternity",
+    "Valor": 4.0
+  },
+  {
+    "Login": "Irillo49",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Rage, Legacy of the Lone Victor",
+    "Valor": 4.32
+  },
+  {
+    "Login": "Irith83",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Glimmer, Ender of the Moon",
+    "Valor": 2.33
+  },
+  {
+    "Login": "Irithrap69",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Hopeless Ebon Dualblade",
+    "Valor": 4.75
+  },
+  {
+    "Login": "Iskadarya95",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Riddle, Tribute of Ended Dreams",
+    "Valor": 3.96
+  },
+  {
+    "Login": "Iskadarya95",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Longsword",
+    "Valor": 4.83
+  },
+  {
+    "Login": "Iskassa50",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Yearning Mageblade",
+    "Valor": 1.79
+  },
+  {
+    "Login": "Isketo41",
+    "Idade": 13,
+    "Sexo": "Masculino",
+    "Item": "Putrid Fan",
+    "Valor": 1.32
+  },
+  {
+    "Login": "Iskichinya81",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Undead Crusader",
+    "Valor": 4.67
+  },
+  {
+    "Login": "Iskimnya76",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Betrayer",
+    "Valor": 1.67
+  },
+  {
+    "Login": "Iskimnya76",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Stormcaller",
+    "Valor": 3.46
+  },
+  {
+    "Login": "Iskirra45",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Crying Steel Sickle",
+    "Valor": 2.29
+  },
+  {
+    "Login": "Iskista88",
+    "Idade": 28,
+    "Sexo": "Masculino",
+    "Item": "Celeste",
+    "Valor": 3.71
+  },
+  {
+    "Login": "Iskista88",
+    "Idade": 28,
+    "Sexo": "Masculino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Iskista96",
+    "Idade": 34,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Longsword",
+    "Valor": 4.83
+  },
+  {
+    "Login": "Iskistasda86",
+    "Idade": 37,
+    "Sexo": "Masculino",
+    "Item": "Retribution Axe",
+    "Valor": 4.14
+  },
+  {
+    "Login": "Iskjaskan81",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Malice, Legacy of the Queen",
+    "Valor": 2.38
+  },
+  {
+    "Login": "Iskjaskst81",
+    "Idade": 33,
+    "Sexo": "Masculino",
+    "Item": "Celeste",
+    "Valor": 3.71
+  },
+  {
+    "Login": "Iskosia51",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Feral Katana",
+    "Valor": 2.19
+  },
+  {
+    "Login": "Iskosia51",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Thorn, Satchel of Dark Souls",
+    "Valor": 4.51
+  },
+  {
+    "Login": "Iskosian40",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Extraction, Quickblade Of Trembling Hands",
+    "Valor": 3.39
+  },
+  {
+    "Login": "Iskossa88",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Dreamkiss",
+    "Valor": 4.06
+  },
+  {
+    "Login": "Iskossa88",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Winter's Bite",
+    "Valor": 1.39
+  },
+  {
+    "Login": "Iskossan49",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Mourning Blade",
+    "Valor": 1.82
+  },
+  {
+    "Login": "Iskossan49",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Piece Maker",
+    "Valor": 4.36
+  },
+  {
+    "Login": "Iskossasda43",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Warped Fetish",
+    "Valor": 2.41
+  },
+  {
+    "Login": "Iskossaya95",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Severance",
+    "Valor": 1.85
+  },
+  {
+    "Login": "Iskossaya95",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Lantern",
+    "Valor": 1.28
+  },
+  {
+    "Login": "Isri49",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Agatha",
+    "Valor": 1.91
+  },
+  {
+    "Login": "Isri59",
+    "Idade": 35,
+    "Sexo": "Masculino",
+    "Item": "Ritual Mace",
+    "Valor": 3.74
+  },
+  {
+    "Login": "Isrirgue68",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Righteous Might",
+    "Valor": 4.36
+  },
+  {
+    "Login": "Isurria36",
+    "Idade": 18,
+    "Sexo": "Feminino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Isurria36",
+    "Idade": 18,
+    "Sexo": "Feminino",
+    "Item": "Ghost Reaver, Longsword of Magic",
+    "Valor": 2.77
+  },
+  {
+    "Login": "Isurria36",
+    "Idade": 18,
+    "Sexo": "Feminino",
+    "Item": "Scalpel",
+    "Valor": 3.62
+  },
+  {
+    "Login": "Isurriarap71",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Avenger",
+    "Valor": 4.16
+  },
+  {
+    "Login": "Isursti83",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Misery's End",
+    "Valor": 2.91
+  },
+  {
+    "Login": "Isursti83",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Rage, Legacy of the Lone Victor",
+    "Valor": 4.32
+  },
+  {
+    "Login": "Isursti83",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Striker",
+    "Valor": 3.82
+  },
+  {
+    "Login": "Ithergue48",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Deathraze",
+    "Valor": 4.54
+  },
+  {
+    "Login": "Ithergue48",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Wolf, Promise of the Moonwalker",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Ithesuphos68",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Stormcaller",
+    "Valor": 3.46
+  },
+  {
+    "Login": "Jeyciman68",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Darkheart",
+    "Valor": 3.15
+  },
+  {
+    "Login": "Jiskassa76",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Jiskassa76",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Tranquility, Razor of Black Magic",
+    "Valor": 2.47
+  },
+  {
+    "Login": "Jiskilsa35",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Dreamsong",
+    "Valor": 3.81
+  },
+  {
+    "Login": "Jiskimsda56",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Apocalyptic Battlescythe",
+    "Valor": 3.91
+  },
+  {
+    "Login": "Jiskirran77",
+    "Idade": 27,
+    "Sexo": "Feminino",
+    "Item": "Warmonger, Gift of Suffering's End",
+    "Valor": 3.96
+  },
+  {
+    "Login": "Jiskjask80",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Misery's End",
+    "Valor": 2.91
+  },
+  {
+    "Login": "Jiskosiala43",
+    "Idade": 9,
+    "Sexo": "Feminino",
+    "Item": "Blindscythe",
+    "Valor": 3.66
+  },
+  {
+    "Login": "Jiskossa51",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Faith's Scimitar",
+    "Valor": 3.82
+  },
+  {
+    "Login": "Jiskossa51",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Whistling Mithril Warblade",
+    "Valor": 4.32
+  },
+  {
+    "Login": "Koikirra25",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Lamil70",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Serenity",
+    "Valor": 1.49
+  },
+  {
+    "Login": "Lamil79",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Second Chance",
+    "Valor": 2.34
+  },
+  {
+    "Login": "Lamon28",
+    "Idade": 32,
+    "Sexo": "Masculino",
+    "Item": "Hatred",
+    "Valor": 4.39
+  },
+  {
+    "Login": "Lamyon68",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Alpha, Reach of Ending Hope",
+    "Valor": 1.55
+  },
+  {
+    "Login": "Lassadarsda57",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Hero Cane",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Lassassasda30",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Agatha",
+    "Valor": 1.91
+  },
+  {
+    "Login": "Lassassasda30",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Avenger",
+    "Valor": 4.16
+  },
+  {
+    "Login": "Lassassast73",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Ragnarok",
+    "Valor": 3.97
+  },
+  {
+    "Login": "Lassassast73",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Twilight's Carver",
+    "Valor": 1.14
+  },
+  {
+    "Login": "Lassast89",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Conqueror Adamantite Mace",
+    "Valor": 1.96
+  },
+  {
+    "Login": "Lassast89",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "The Decapitator",
+    "Valor": 4.82
+  },
+  {
+    "Login": "Lassilsa41",
+    "Idade": 27,
+    "Sexo": "Feminino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Lassilsa41",
+    "Idade": 27,
+    "Sexo": "Feminino",
+    "Item": "Trickster",
+    "Valor": 2.07
+  },
+  {
+    "Login": "Lassilsa63",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Mace",
+    "Valor": 1.27
+  },
+  {
+    "Login": "Lassilsala30",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Heartseeker, Reaver of Souls",
+    "Valor": 3.21
+  },
+  {
+    "Login": "Lassimla92",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Malificent Bag",
+    "Valor": 2.17
+  },
+  {
+    "Login": "Lassista97",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Hero Cane",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Lassjask63",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Darkheart, Butcher of the Champion",
+    "Valor": 3.56
+  },
+  {
+    "Login": "Lassjask63",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Woeful Adamantite Claymore",
+    "Valor": 1.24
+  },
+  {
+    "Login": "Lassjaskan73",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Blindscythe",
+    "Valor": 3.66
+  },
+  {
+    "Login": "Lassjaskan73",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Whistling Mithril Warblade",
+    "Valor": 4.32
+  },
+  {
+    "Login": "Layjask75",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Avenger",
+    "Valor": 4.16
+  },
+  {
+    "Login": "Leulaesti78",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Massacre",
+    "Valor": 3.42
+  },
+  {
+    "Login": "Leyirra83",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Fiery Glass Crusader",
+    "Valor": 4.45
+  },
+  {
+    "Login": "Liawista80",
+    "Idade": 32,
+    "Sexo": "Masculino",
+    "Item": "Persuasion",
+    "Valor": 3.45
+  },
+  {
+    "Login": "Liri91",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Devine",
+    "Valor": 1.45
+  },
+  {
+    "Login": "Liri91",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Retribution Axe",
+    "Valor": 4.14
+  },
+  {
+    "Login": "Lirtassa47",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Hero Cane",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Lirtassa47",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Yearning Crusher",
+    "Valor": 1.06
+  },
+  {
+    "Login": "Lirtast83",
+    "Idade": 32,
+    "Sexo": "Masculino",
+    "Item": "Victor Iron Spikes",
+    "Valor": 3.55
+  },
+  {
+    "Login": "Lirtilsan89",
+    "Idade": 11,
+    "Sexo": "Masculino",
+    "Item": "Demise",
+    "Valor": 4.07
+  },
+  {
+    "Login": "Lirtista72",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Righteous Might",
+    "Valor": 4.36
+  },
+  {
+    "Login": "Lirtistanya48",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Massacre",
+    "Valor": 3.42
+  },
+  {
+    "Login": "Lirtistasta79",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Blade of the Grave",
+    "Valor": 1.69
+  },
+  {
+    "Login": "Lirtistasta79",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Trickster",
+    "Valor": 2.07
+  },
+  {
+    "Login": "Lirtosia72",
+    "Idade": 14,
+    "Sexo": "Masculino",
+    "Item": "Deluge, Edge of the West",
+    "Valor": 2.2
+  },
+  {
+    "Login": "Lirtosia72",
+    "Idade": 14,
+    "Sexo": "Masculino",
+    "Item": "Dragon's Greatsword",
+    "Valor": 2.36
+  },
+  {
+    "Login": "Lirtosia72",
+    "Idade": 14,
+    "Sexo": "Masculino",
+    "Item": "Dreamsong",
+    "Valor": 3.81
+  },
+  {
+    "Login": "Lirtossa78",
+    "Idade": 14,
+    "Sexo": "Masculino",
+    "Item": "Azurewrath",
+    "Valor": 2.22
+  },
+  {
+    "Login": "Lirtossa78",
+    "Idade": 14,
+    "Sexo": "Masculino",
+    "Item": "Gladiator's Glaive",
+    "Valor": 1.36
+  },
+  {
+    "Login": "Lirtossa84",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Lirtossan50",
+    "Idade": 35,
+    "Sexo": "Masculino",
+    "Item": "Lifebender",
+    "Valor": 3.51
+  },
+  {
+    "Login": "Lirtossanya27",
+    "Idade": 24,
+    "Sexo": "Feminino",
+    "Item": "Yearning Mageblade",
+    "Valor": 1.79
+  },
+  {
+    "Login": "Lirtyrdesta65",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Wolf",
+    "Valor": 1.84
+  },
+  {
+    "Login": "Lisadar44",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Celeste, Incarnation of the Corrupted",
+    "Valor": 2.31
+  },
+  {
+    "Login": "Lisasi93",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Bonecarvin Battle Axe",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Lisasi93",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Warmonger, Gift of Suffering's End",
+    "Valor": 3.96
+  },
+  {
+    "Login": "Lisassa26",
+    "Idade": 33,
+    "Sexo": "Masculino",
+    "Item": "Thirsty Iron Reaver",
+    "Valor": 4.25
+  },
+  {
+    "Login": "Lisassa39",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Alpha",
+    "Valor": 1.56
+  },
+  {
+    "Login": "Lisassa49",
+    "Idade": 24,
+    "Sexo": "Feminino",
+    "Item": "Suspension",
+    "Valor": 2.11
+  },
+  {
+    "Login": "Lisassasta50",
+    "Idade": 33,
+    "Sexo": "Feminino",
+    "Item": "Amnesia",
+    "Valor": 3.57
+  },
+  {
+    "Login": "Lisassasta50",
+    "Idade": 33,
+    "Sexo": "Feminino",
+    "Item": "Thunderfury Scimitar",
+    "Valor": 3.02
+  },
+  {
+    "Login": "Lisico81",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Possessed Core",
+    "Valor": 1.59
+  },
+  {
+    "Login": "Lisimsda29",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Scalpel",
+    "Valor": 3.62
+  },
+  {
+    "Login": "Lisiriya82",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Lifebender",
+    "Valor": 3.51
+  },
+  {
+    "Login": "Lisirra55",
+    "Idade": 7,
+    "Sexo": "Feminino",
+    "Item": "Brimstone",
+    "Valor": 2.52
+  },
+  {
+    "Login": "Lisirra55",
+    "Idade": 7,
+    "Sexo": "Feminino",
+    "Item": "Souleater",
+    "Valor": 3.27
+  },
+  {
+    "Login": "Lisirrast82",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Possessed Core",
+    "Valor": 1.59
+  },
+  {
+    "Login": "Lisirraya76",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Emberling, Defender of Delusions",
+    "Valor": 4.1
+  },
+  {
+    "Login": "Lisista27",
+    "Idade": 42,
+    "Sexo": "Masculino",
+    "Item": "Suspension",
+    "Valor": 2.11
+  },
+  {
+    "Login": "Lisistasya93",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Purgatory, Gem of Regret",
+    "Valor": 3.91
+  },
+  {
+    "Login": "Lisistaya47",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Lisistaya47",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Massacre",
+    "Valor": 3.42
+  },
+  {
+    "Login": "Lisistaya47",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Massacre",
+    "Valor": 3.42
+  },
+  {
+    "Login": "Lisjaskan36",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Emberling, Defender of Delusions",
+    "Valor": 4.1
+  },
+  {
+    "Login": "Lisjaskan36",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Swan Song, Gouger Of Terror",
+    "Valor": 3.58
+  },
+  {
+    "Login": "Lisjasksda68",
+    "Idade": 26,
+    "Sexo": "Feminino",
+    "Item": "Malificent Bag",
+    "Valor": 2.17
+  },
+  {
+    "Login": "Lisjasksda68",
+    "Idade": 26,
+    "Sexo": "Feminino",
+    "Item": "Wolf, Promise of the Moonwalker",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Lisjaskya84",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Restored Bauble",
+    "Valor": 3.11
+  },
+  {
+    "Login": "Lisosianya62",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Alpha, Reach of Ending Hope",
+    "Valor": 1.55
+  },
+  {
+    "Login": "Lisosiast26",
+    "Idade": 36,
+    "Sexo": "Masculino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Lisosiast26",
+    "Idade": 36,
+    "Sexo": "Masculino",
+    "Item": "Hatred",
+    "Valor": 4.39
+  },
+  {
+    "Login": "Lisossa25",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Alpha",
+    "Valor": 1.56
+  },
+  {
+    "Login": "Lisossa25",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Unholy Wand",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Lisossa63",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Lisossa63",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Massacre",
+    "Valor": 3.42
+  },
+  {
+    "Login": "Lisossa63",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Twilight's Carver",
+    "Valor": 1.14
+  },
+  {
+    "Login": "Lisossan98",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Expiration, Warscythe Of Lost Worlds",
+    "Valor": 4.53
+  },
+  {
+    "Login": "Lisossan98",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Mercenary Sabre",
+    "Valor": 4.57
+  },
+  {
+    "Login": "Lisossanya98",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Lisovynya38",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Blood Infused Guardian",
+    "Valor": 2.86
+  },
+  {
+    "Login": "Lisovynya38",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Crying Steel Sickle",
+    "Valor": 2.29
+  },
+  {
+    "Login": "Malista67",
+    "Idade": 13,
+    "Sexo": "Masculino",
+    "Item": "Oathbreaker, Spellblade of Trials",
+    "Valor": 3.01
+  },
+  {
+    "Login": "Malunil62",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Mercenary Sabre",
+    "Valor": 4.57
+  },
+  {
+    "Login": "Malunil62",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Rage, Legacy of the Lone Victor",
+    "Valor": 4.32
+  },
+  {
+    "Login": "Marassanya92",
+    "Idade": 27,
+    "Sexo": "Masculino",
+    "Item": "Mercy, Katana of Dismay",
+    "Valor": 4.37
+  },
+  {
+    "Login": "Marassaya49",
+    "Idade": 45,
+    "Sexo": "Masculino",
+    "Item": "Venom Claymore",
+    "Valor": 2.72
+  },
+  {
+    "Login": "Marilsa48",
+    "Idade": 12,
+    "Sexo": "Masculino",
+    "Item": "Aetherius, Boon of the Blessed",
+    "Valor": 4.75
+  },
+  {
+    "Login": "Marilsanya48",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Avenger",
+    "Valor": 4.16
+  },
+  {
+    "Login": "Marilsasya33",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Trickster",
+    "Valor": 2.07
+  },
+  {
+    "Login": "Marim28",
+    "Idade": 17,
+    "Sexo": "Feminino",
+    "Item": "Frenzied Scimitar",
+    "Valor": 2.6
+  },
+  {
+    "Login": "Marim28",
+    "Idade": 17,
+    "Sexo": "Feminino",
+    "Item": "Riddle, Tribute of Ended Dreams",
+    "Valor": 3.96
+  },
+  {
+    "Login": "Marirrasta50",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Heartseeker, Reaver of Souls",
+    "Valor": 3.21
+  },
+  {
+    "Login": "Marirrasta50",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Oathbreaker, Spellblade of Trials",
+    "Valor": 3.01
+  },
+  {
+    "Login": "Marjasksda39",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Feral Katana",
+    "Valor": 2.19
+  },
+  {
+    "Login": "Marundi65",
+    "Idade": 24,
+    "Sexo": "Feminino",
+    "Item": "Demise",
+    "Valor": 4.07
+  },
+  {
+    "Login": "Meosridil82",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Curved Axe",
+    "Valor": 1.35
+  },
+  {
+    "Login": "Meosridil82",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Tranquility, Razor of Black Magic",
+    "Valor": 2.47
+  },
+  {
+    "Login": "Mindadaran26",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Venom Claymore",
+    "Valor": 2.72
+  },
+  {
+    "Login": "Mindassast27",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Trickster",
+    "Valor": 2.07
+  },
+  {
+    "Login": "Mindetosya30",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Celeste, Incarnation of the Corrupted",
+    "Valor": 2.31
+  },
+  {
+    "Login": "Mindilsa60",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Expiration, Warscythe Of Lost Worlds",
+    "Valor": 4.53
+  },
+  {
+    "Login": "Mindilsa60",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Wolf",
+    "Valor": 1.84
+  },
+  {
+    "Login": "Mindimnya67",
+    "Idade": 39,
+    "Sexo": "Feminino",
+    "Item": "Devine",
+    "Valor": 1.45
+  },
+  {
+    "Login": "Mindimnya67",
+    "Idade": 39,
+    "Sexo": "Feminino",
+    "Item": "Fiery Glass Crusader",
+    "Valor": 4.45
+  },
+  {
+    "Login": "Mindimnya67",
+    "Idade": 39,
+    "Sexo": "Feminino",
+    "Item": "Striker",
+    "Valor": 3.82
+  },
+  {
+    "Login": "Mindimnya67",
+    "Idade": 39,
+    "Sexo": "Feminino",
+    "Item": "Thunderfury Scimitar",
+    "Valor": 3.02
+  },
+  {
+    "Login": "Mindirra92",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Mindirra92",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Brimstone",
+    "Valor": 2.52
+  },
+  {
+    "Login": "Mindirra92",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Vindictive Glass Edge",
+    "Valor": 4.26
+  },
+  {
+    "Login": "Mindjasksya61",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Hope's End",
+    "Valor": 3.89
+  },
+  {
+    "Login": "Mindosiasya28",
+    "Idade": 13,
+    "Sexo": "Masculino",
+    "Item": "Woeful Adamantite Claymore",
+    "Valor": 1.24
+  },
+  {
+    "Login": "Mindossa76",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Singed Onyx Warscythe",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Mindossasya74",
+    "Idade": 26,
+    "Sexo": "Masculino",
+    "Item": "Malificent Bag",
+    "Valor": 2.17
+  },
+  {
+    "Login": "Minduli80",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Narirra38",
+    "Idade": 23,
+    "Sexo": "Feminino",
+    "Item": "Dawne",
+    "Valor": 4.3
+  },
+  {
+    "Login": "Narirra38",
+    "Idade": 23,
+    "Sexo": "Feminino",
+    "Item": "Haunted Bronzed Bludgeon",
+    "Valor": 4.12
+  },
+  {
+    "Login": "Nitherian58",
+    "Idade": 22,
+    "Sexo": "Feminino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Palatyon26",
+    "Idade": 11,
+    "Sexo": "Masculino",
+    "Item": "Lazarus, Terror of the Earth",
+    "Valor": 3.47
+  },
+  {
+    "Login": "Palurrian69",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Orenmir",
+    "Valor": 4.95
+  },
+  {
+    "Login": "Phadai31",
+    "Idade": 30,
+    "Sexo": "Feminino",
+    "Item": "Stormcaller",
+    "Valor": 3.46
+  },
+  {
+    "Login": "Phadue96",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Darkheart",
+    "Valor": 3.15
+  },
+  {
+    "Login": "Phaedai25",
+    "Idade": 16,
+    "Sexo": "Feminino",
+    "Item": "Glinting Glass Edge",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Phaedan76",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Wolf",
+    "Valor": 1.84
+  },
+  {
+    "Login": "Phaeduesurgue38",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "The Oculus, Token of Lost Worlds",
+    "Valor": 4.23
+  },
+  {
+    "Login": "Phaestycal84",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Scalpel",
+    "Valor": 3.62
+  },
+  {
+    "Login": "Phainasu47",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Misery's End",
+    "Valor": 2.91
+  },
+  {
+    "Login": "Phairinum94",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Blazeguard, Reach of Eternity",
+    "Valor": 4.0
+  },
+  {
+    "Login": "Phalinun47",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Sleepwalker",
+    "Valor": 1.73
+  },
+  {
+    "Login": "Pharithdil38",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Valor": 2.41
+  },
+  {
+    "Login": "Pharithdil38",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Victor Iron Spikes",
+    "Valor": 3.55
+  },
+  {
+    "Login": "Phenastya51",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Aetherius, Boon of the Blessed",
+    "Valor": 4.75
+  },
+  {
+    "Login": "Pheodai94",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Netherbane",
+    "Valor": 1.48
+  },
+  {
+    "Login": "Pheusrical25",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Phially37",
+    "Idade": 22,
+    "Sexo": "Feminino",
+    "Item": "Alpha, Oath of Zeal",
+    "Valor": 2.88
+  },
+  {
+    "Login": "Philistirap41",
+    "Idade": 33,
+    "Sexo": "Masculino",
+    "Item": "Blade of the Grave",
+    "Valor": 1.69
+  },
+  {
+    "Login": "Philodil43",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Serenity",
+    "Valor": 1.49
+  },
+  {
+    "Login": "Phistym51",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Chaos, Ender of the End",
+    "Valor": 3.79
+  },
+  {
+    "Login": "Phyali88",
+    "Idade": 38,
+    "Sexo": "Masculino",
+    "Item": "Crying Steel Sickle",
+    "Valor": 2.29
+  },
+  {
+    "Login": "Qaronon57",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Amnesia",
+    "Valor": 3.57
+  },
+  {
+    "Login": "Qarrian82",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Fiery Glass Crusader",
+    "Valor": 4.45
+  },
+  {
+    "Login": "Qarwen67",
+    "Idade": 11,
+    "Sexo": "Masculino",
+    "Item": "Azurewrath",
+    "Valor": 2.22
+  },
+  {
+    "Login": "Qarwen67",
+    "Idade": 11,
+    "Sexo": "Masculino",
+    "Item": "Conqueror Adamantite Mace",
+    "Valor": 1.96
+  },
+  {
+    "Login": "Qarwen67",
+    "Idade": 11,
+    "Sexo": "Masculino",
+    "Item": "Relentless Iron Skewer",
+    "Valor": 2.97
+  },
+  {
+    "Login": "Qarwen67",
+    "Idade": 11,
+    "Sexo": "Masculino",
+    "Item": "The Void, Vengeance of Dark Magic",
+    "Valor": 2.82
+  },
+  {
+    "Login": "Qilanrion65",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Spectral Bone Axe",
+    "Valor": 2.98
+  },
+  {
+    "Login": "Qilatie51",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Blindscythe",
+    "Valor": 3.66
+  },
+  {
+    "Login": "Qilatie51",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Darkheart",
+    "Valor": 3.15
+  },
+  {
+    "Login": "Qiluard68",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Orenmir",
+    "Valor": 4.95
+  },
+  {
+    "Login": "Qilunan34",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Stormbringer, Dark Blade of Ending Misery",
+    "Valor": 2.32
+  },
+  {
+    "Login": "Quanenrian83",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Chaos, Ender of the End",
+    "Valor": 3.79
+  },
+  {
+    "Login": "Quarunarn52",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Hopeless Ebon Dualblade",
+    "Valor": 4.75
+  },
+  {
+    "Login": "Quarusrion32",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Possessed Core",
+    "Valor": 1.59
+  },
+  {
+    "Login": "Quarusrion32",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Woeful Adamantite Claymore",
+    "Valor": 1.24
+  },
+  {
+    "Login": "Quelatarn54",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Foul Titanium Battle Axe",
+    "Valor": 4.33
+  },
+  {
+    "Login": "Quelaton80",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Brutality Ivory Warmace",
+    "Valor": 1.72
+  },
+  {
+    "Login": "Queusurra38",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Betrayer",
+    "Valor": 1.67
+  },
+  {
+    "Login": "Queusurra38",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "War-Forged Gold Deflector",
+    "Valor": 3.73
+  },
+  {
+    "Login": "Quinarap53",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Bonecarvin Battle Axe",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Raedalis34",
+    "Idade": 15,
+    "Sexo": "Feminino",
+    "Item": "Dawn",
+    "Valor": 2.55
+  },
+  {
+    "Login": "Raeduerin33",
+    "Idade": 28,
+    "Sexo": "Masculino",
+    "Item": "Woeful Adamantite Claymore",
+    "Valor": 1.24
+  },
+  {
+    "Login": "Raelly43",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Bone Crushing Silver Skewer",
+    "Valor": 3.37
+  },
+  {
+    "Login": "Raeri71",
+    "Idade": 18,
+    "Sexo": "Feminino",
+    "Item": "Blazefury, Protector of Delusions",
+    "Valor": 1.5
+  },
+  {
+    "Login": "Raerithsti62",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Brimstone",
+    "Valor": 2.52
+  },
+  {
+    "Login": "Raerithsti62",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Spectral Diamond Doomblade",
+    "Valor": 4.25
+  },
+  {
+    "Login": "Raesty92",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Putrid Fan",
+    "Valor": 1.32
+  },
+  {
+    "Login": "Raesty92",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Retribution Axe",
+    "Valor": 4.14
+  },
+  {
+    "Login": "Raesurdil91",
+    "Idade": 43,
+    "Sexo": "Masculino",
+    "Item": "Despair, Favor of Due Diligence",
+    "Valor": 3.81
+  },
+  {
+    "Login": "Raesursurap33",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Dreamkiss",
+    "Valor": 4.06
+  },
+  {
+    "Login": "Raesursurap33",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Twilight's Carver",
+    "Valor": 1.14
+  },
+  {
+    "Login": "Raillydeu47",
+    "Idade": 35,
+    "Sexo": "Masculino",
+    "Item": "Retribution Axe",
+    "Valor": 4.14
+  },
+  {
+    "Login": "Raillydeu47",
+    "Idade": 35,
+    "Sexo": "Masculino",
+    "Item": "Wolf, Promise of the Moonwalker",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Raithe71",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Splitter, Foe Of Subtlety",
+    "Valor": 3.61
+  },
+  {
+    "Login": "Ralaeriadeu65",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Avenger",
+    "Valor": 4.16
+  },
+  {
+    "Login": "Ralasti48",
+    "Idade": 35,
+    "Sexo": "Masculino",
+    "Item": "Retribution Axe",
+    "Valor": 4.14
+  },
+  {
+    "Login": "Ralonurin90",
+    "Idade": 26,
+    "Sexo": "Masculino",
+    "Item": "Warmonger, Gift of Suffering's End",
+    "Valor": 3.96
+  },
+  {
+    "Login": "Rarith48",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Soul Infused Crystal",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Rasrirgue43",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Apocalyptic Battlescythe",
+    "Valor": 3.91
+  },
+  {
+    "Login": "Rathellorin54",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Conqueror Adamantite Mace",
+    "Valor": 1.96
+  },
+  {
+    "Login": "Rathellorin54",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Singed Onyx Warscythe",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Raysistast71",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Thorn, Satchel of Dark Souls",
+    "Valor": 4.51
+  },
+  {
+    "Login": "Reolacal36",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Demise",
+    "Valor": 4.07
+  },
+  {
+    "Login": "Reula64",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Interrogator, Blood Blade of the Queen",
+    "Valor": 3.32
+  },
+  {
+    "Login": "Reula64",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Spectral Diamond Doomblade",
+    "Valor": 4.25
+  },
+  {
+    "Login": "Reulae52",
+    "Idade": 9,
+    "Sexo": "Masculino",
+    "Item": "Demise",
+    "Valor": 4.07
+  },
+  {
+    "Login": "Reuthelis39",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Brimstone",
+    "Valor": 2.52
+  },
+  {
+    "Login": "Reuthelis39",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Curved Axe",
+    "Valor": 1.35
+  },
+  {
+    "Login": "Rina82",
+    "Idade": 11,
+    "Sexo": "Masculino",
+    "Item": "Shadowsteel",
+    "Valor": 1.98
+  },
+  {
+    "Login": "Rinallorap73",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Rinallorap73",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Ragnarok",
+    "Valor": 3.97
+  },
+  {
+    "Login": "Riralsti91",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Undead Crusader",
+    "Valor": 4.67
+  },
+  {
+    "Login": "Ririp86",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Celeste",
+    "Valor": 3.71
+  },
+  {
+    "Login": "Ristydru66",
+    "Idade": 33,
+    "Sexo": "Masculino",
+    "Item": "Agatha",
+    "Valor": 1.91
+  },
+  {
+    "Login": "Rithe53",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Rithe77",
+    "Idade": 26,
+    "Sexo": "Feminino",
+    "Item": "Conqueror Adamantite Mace",
+    "Valor": 1.96
+  },
+  {
+    "Login": "Rithe77",
+    "Idade": 26,
+    "Sexo": "Feminino",
+    "Item": "Fate, Vengeance of Eternal Justice",
+    "Valor": 1.55
+  },
+  {
+    "Login": "Ryanara76",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Flux, Destroyer of Due Diligence",
+    "Valor": 3.04
+  },
+  {
+    "Login": "Ryanara76",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Riddle, Tribute of Ended Dreams",
+    "Valor": 3.96
+  },
+  {
+    "Login": "Ryastycal90",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Unending Tyranny",
+    "Valor": 1.21
+  },
+  {
+    "Login": "Saedaiphos46",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Dawn",
+    "Valor": 2.55
+  },
+  {
+    "Login": "Saedue76",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Ritual Mace",
+    "Valor": 3.74
+  },
+  {
+    "Login": "Saedue76",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Serenity",
+    "Valor": 1.49
+  },
+  {
+    "Login": "Saedue76",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Striker",
+    "Valor": 3.82
+  },
+  {
+    "Login": "Saedue76",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Thorn, Satchel of Dark Souls",
+    "Valor": 4.51
+  },
+  {
+    "Login": "Saelaephos52",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Reaper's Toll",
+    "Valor": 4.56
+  },
+  {
+    "Login": "Saellyra72",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Persuasion",
+    "Valor": 3.45
+  },
+  {
+    "Login": "Saellyra72",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Purgatory, Gem of Regret",
+    "Valor": 3.91
+  },
+  {
+    "Login": "Saelollop56",
+    "Idade": 40,
+    "Sexo": "Feminino",
+    "Item": "Piety, Guardian of Riddles",
+    "Valor": 3.68
+  },
+  {
+    "Login": "Saena74",
+    "Idade": 35,
+    "Sexo": "Feminino",
+    "Item": "Extraction, Quickblade Of Trembling Hands",
+    "Valor": 3.39
+  },
+  {
+    "Login": "Saerallora71",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Dragon's Greatsword",
+    "Valor": 2.36
+  },
+  {
+    "Login": "Saida58",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Exiled Doomblade",
+    "Valor": 1.92
+  },
+  {
+    "Login": "Saida58",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Fury",
+    "Valor": 4.82
+  },
+  {
+    "Login": "Saidairiaphos61",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Torchlight, Bond of Storms",
+    "Valor": 1.77
+  },
+  {
+    "Login": "Saisrilis27",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Extraction, Quickblade Of Trembling Hands",
+    "Valor": 3.39
+  },
+  {
+    "Login": "Saistydru69",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Haunted Bronzed Bludgeon",
+    "Valor": 4.12
+  },
+  {
+    "Login": "Saistyphos30",
+    "Idade": 32,
+    "Sexo": "Feminino",
+    "Item": "Orenmir",
+    "Valor": 4.95
+  },
+  {
+    "Login": "Saistyphos30",
+    "Idade": 32,
+    "Sexo": "Feminino",
+    "Item": "Singed Onyx Warscythe",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Salilis27",
+    "Idade": 23,
+    "Sexo": "Feminino",
+    "Item": "Alpha",
+    "Valor": 1.56
+  },
+  {
+    "Login": "Sally64",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Alpha, Reach of Ending Hope",
+    "Valor": 1.55
+  },
+  {
+    "Login": "Saralp86",
+    "Idade": 9,
+    "Sexo": "Masculino",
+    "Item": "Unholy Wand",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Sausosia74",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Devine",
+    "Valor": 1.45
+  },
+  {
+    "Login": "Sausosia74",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Retribution Axe",
+    "Valor": 4.14
+  },
+  {
+    "Login": "Seolollo93",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Purgatory, Gem of Regret",
+    "Valor": 3.91
+  },
+  {
+    "Login": "Seorithstilis90",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Alpha",
+    "Valor": 1.56
+  },
+  {
+    "Login": "Seorithstilis90",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Darkheart",
+    "Valor": 3.15
+  },
+  {
+    "Login": "Seorithstilis90",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Piety, Guardian of Riddles",
+    "Valor": 3.68
+  },
+  {
+    "Login": "Seosri62",
+    "Idade": 35,
+    "Sexo": "Masculino",
+    "Item": "Brimstone",
+    "Valor": 2.52
+  },
+  {
+    "Login": "Seosri62",
+    "Idade": 35,
+    "Sexo": "Masculino",
+    "Item": "Oathbreaker, Spellblade of Trials",
+    "Valor": 3.01
+  },
+  {
+    "Login": "Seudaillorap38",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Faith's Scimitar",
+    "Valor": 3.82
+  },
+  {
+    "Login": "Seudanu38",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Solitude's Reaver",
+    "Valor": 2.67
+  },
+  {
+    "Login": "Seuthelis34",
+    "Idade": 30,
+    "Sexo": "Feminino",
+    "Item": "Alpha, Oath of Zeal",
+    "Valor": 2.88
+  },
+  {
+    "Login": "Shaidanu32",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Swan Song, Gouger Of Terror",
+    "Valor": 3.58
+  },
+  {
+    "Login": "Shaidanu32",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Undead Crusader",
+    "Valor": 4.67
+  },
+  {
+    "Login": "Shidai42",
+    "Idade": 23,
+    "Sexo": "Feminino",
+    "Item": "Shadow Strike, Glory of Ending Hope",
+    "Valor": 1.93
+  },
+  {
+    "Login": "Sialaera37",
+    "Idade": 22,
+    "Sexo": "Feminino",
+    "Item": "Serenity",
+    "Valor": 1.49
+  },
+  {
+    "Login": "Siarinum43",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Malice, Legacy of the Queen",
+    "Valor": 2.38
+  },
+  {
+    "Login": "Siarithria38",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Relentless Iron Skewer",
+    "Valor": 2.97
+  },
+  {
+    "Login": "Siasri67",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Rusty Skull",
+    "Valor": 1.2
+  },
+  {
+    "Login": "Siathecal92",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Spectral Bone Axe",
+    "Valor": 2.98
+  },
+  {
+    "Login": "Sida61",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Blazeguard, Reach of Eternity",
+    "Valor": 4.0
+  },
+  {
+    "Login": "Sida61",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Second Chance",
+    "Valor": 2.34
+  },
+  {
+    "Login": "Sidap51",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Trickster",
+    "Valor": 2.07
+  },
+  {
+    "Login": "Silaera56",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Brutality Ivory Warmace",
+    "Valor": 1.72
+  },
+  {
+    "Login": "Silideu44",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Torchlight, Bond of Storms",
+    "Valor": 1.77
+  },
+  {
+    "Login": "Silinu63",
+    "Idade": 9,
+    "Sexo": "Masculino",
+    "Item": "Restored Bauble",
+    "Valor": 3.11
+  },
+  {
+    "Login": "Sirira97",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Heartstriker, Legacy of the Light",
+    "Valor": 4.15
+  },
+  {
+    "Login": "Smecherdi88",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Riddle, Tribute of Ended Dreams",
+    "Valor": 3.96
+  },
+  {
+    "Login": "Sondadar26",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Retribution Axe",
+    "Valor": 4.14
+  },
+  {
+    "Login": "Sondassa48",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Solitude's Reaver",
+    "Valor": 2.67
+  },
+  {
+    "Login": "Sondassa68",
+    "Idade": 30,
+    "Sexo": "Masculino",
+    "Item": "Frenzy, Defender of the Harvest",
+    "Valor": 1.06
+  },
+  {
+    "Login": "Sondassasya91",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Mourning Blade",
+    "Valor": 1.82
+  },
+  {
+    "Login": "Sondastan54",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Gladiator's Glaive",
+    "Valor": 1.36
+  },
+  {
+    "Login": "Sondastan54",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Shadowsteel",
+    "Valor": 1.98
+  },
+  {
+    "Login": "Sondastan54",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Stormfury Longsword",
+    "Valor": 4.83
+  },
+  {
+    "Login": "Sondastan54",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Trickster",
+    "Valor": 2.07
+  },
+  {
+    "Login": "Sondenasta63",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Ghost Reaver, Longsword of Magic",
+    "Valor": 2.77
+  },
+  {
+    "Login": "Sondilsa35",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Swan Song, Gouger Of Terror",
+    "Valor": 3.58
+  },
+  {
+    "Login": "Sondilsa40",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Netherbane",
+    "Valor": 1.48
+  },
+  {
+    "Login": "Sondilsa40",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Stormbringer, Dark Blade of Ending Misery",
+    "Valor": 2.32
+  },
+  {
+    "Login": "Sondim43",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Ghost Reaver, Longsword of Magic",
+    "Valor": 2.77
+  },
+  {
+    "Login": "Sondim43",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Heartless Bone Dualblade",
+    "Valor": 2.63
+  },
+  {
+    "Login": "Sondim43",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Pursuit, Cudgel of Necromancy",
+    "Valor": 3.98
+  },
+  {
+    "Login": "Sondim68",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Sondim73",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Amnesia",
+    "Valor": 3.57
+  },
+  {
+    "Login": "Sondimla25",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Malificent Bag",
+    "Valor": 2.17
+  },
+  {
+    "Login": "Sondossa55",
+    "Idade": 12,
+    "Sexo": "Masculino",
+    "Item": "Hope's End",
+    "Valor": 3.89
+  },
+  {
+    "Login": "Sondossa55",
+    "Idade": 12,
+    "Sexo": "Masculino",
+    "Item": "Victor Iron Spikes",
+    "Valor": 3.55
+  },
+  {
+    "Login": "Sondossa91",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Scalpel",
+    "Valor": 3.62
+  },
+  {
+    "Login": "Strairisti57",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Spada, Etcher of Hatred",
+    "Valor": 2.21
+  },
+  {
+    "Login": "Streural92",
+    "Idade": 13,
+    "Sexo": "Masculino",
+    "Item": "Lazarus, Terror of the Earth",
+    "Valor": 3.47
+  },
+  {
+    "Login": "Streural92",
+    "Idade": 13,
+    "Sexo": "Masculino",
+    "Item": "Possessed Core",
+    "Valor": 1.59
+  },
+  {
+    "Login": "Strithenu87",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Hailstorm Shadowsteel Scythe",
+    "Valor": 3.73
+  },
+  {
+    "Login": "Stryanastip77",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Stryanastip77",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Styaduen40",
+    "Idade": 21,
+    "Sexo": "Feminino",
+    "Item": "Purgatory, Gem of Regret",
+    "Valor": 3.91
+  },
+  {
+    "Login": "Sundadarla27",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Dawne",
+    "Valor": 4.3
+  },
+  {
+    "Login": "Sundassa93",
+    "Idade": 23,
+    "Sexo": "Feminino",
+    "Item": "Deluge, Edge of the West",
+    "Valor": 2.2
+  },
+  {
+    "Login": "Sundast29",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Bonecarvin Battle Axe",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Sundast29",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Conqueror Adamantite Mace",
+    "Valor": 1.96
+  },
+  {
+    "Login": "Sundast87",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Oathbreaker, Spellblade of Trials",
+    "Valor": 3.01
+  },
+  {
+    "Login": "Sundastnya66",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Severance",
+    "Valor": 1.85
+  },
+  {
+    "Login": "Sundaststa26",
+    "Idade": 22,
+    "Sexo": "Feminino",
+    "Item": "Curved Axe",
+    "Valor": 1.35
+  },
+  {
+    "Login": "Sundaststa26",
+    "Idade": 22,
+    "Sexo": "Feminino",
+    "Item": "Fiery Glass Crusader",
+    "Valor": 4.45
+  },
+  {
+    "Login": "Sundim98",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Blindscythe",
+    "Valor": 3.66
+  },
+  {
+    "Login": "Sundista85",
+    "Idade": 22,
+    "Sexo": "Feminino",
+    "Item": "Twilight's Carver",
+    "Valor": 1.14
+  },
+  {
+    "Login": "Sundjask71",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Piety, Guardian of Riddles",
+    "Valor": 3.68
+  },
+  {
+    "Login": "Sundosiasta28",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Extraction, Quickblade Of Trembling Hands",
+    "Valor": 3.39
+  },
+  {
+    "Login": "Sundossast30",
+    "Idade": 17,
+    "Sexo": "Feminino",
+    "Item": "Extraction, Quickblade Of Trembling Hands",
+    "Valor": 3.39
+  },
+  {
+    "Login": "Sweecossa42",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Alpha, Oath of Zeal",
+    "Valor": 2.88
+  },
+  {
+    "Login": "Sweecossa42",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Shadow Strike, Glory of Ending Hope",
+    "Valor": 1.93
+  },
+  {
+    "Login": "Syadaillo88",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Amnesia",
+    "Valor": 3.57
+  },
+  {
+    "Login": "Syally44",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Azurewrath",
+    "Valor": 2.22
+  },
+  {
+    "Login": "Syalollorap93",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Thorn, Satchel of Dark Souls",
+    "Valor": 4.51
+  },
+  {
+    "Login": "Syasriria69",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Serenity",
+    "Valor": 1.49
+  },
+  {
+    "Login": "Syasriria69",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Storm-Weaver, Slayer of Inception",
+    "Valor": 2.49
+  },
+  {
+    "Login": "Syathe73",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Winterthorn, Defender of Shifting Worlds",
+    "Valor": 4.89
+  },
+  {
+    "Login": "Taeduenu92",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Hatred",
+    "Valor": 4.39
+  },
+  {
+    "Login": "Tanimnya91",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Sleepwalker",
+    "Valor": 1.73
+  },
+  {
+    "Login": "Tauldilsa43",
+    "Idade": 34,
+    "Sexo": "Masculino",
+    "Item": "Suspension",
+    "Valor": 2.11
+  },
+  {
+    "Login": "Thourdirra92",
+    "Idade": 18,
+    "Sexo": "Masculino",
+    "Item": "Thirsty Iron Reaver",
+    "Valor": 4.25
+  },
+  {
+    "Login": "Thryallym62",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Bloodlord's Fetish",
+    "Valor": 2.28
+  },
+  {
+    "Login": "Thryallym62",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Venom Claymore",
+    "Valor": 2.72
+  },
+  {
+    "Login": "Tillyrin30",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Frenzy, Defender of the Harvest",
+    "Valor": 1.06
+  },
+  {
+    "Login": "Tillyrin30",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Heartstriker, Legacy of the Light",
+    "Valor": 4.15
+  },
+  {
+    "Login": "Tillyrin30",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Pursuit, Cudgel of Necromancy",
+    "Valor": 3.98
+  },
+  {
+    "Login": "Tridaira71",
+    "Idade": 37,
+    "Sexo": "Feminino",
+    "Item": "Singed Onyx Warscythe",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Tyadaru49",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Foul Titanium Battle Axe",
+    "Valor": 4.33
+  },
+  {
+    "Login": "Tyadaru49",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Freak's Bite, Favor of Holy Might",
+    "Valor": 3.03
+  },
+  {
+    "Login": "Tyaelistidru84",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Blood-Forged Skeletal Spine",
+    "Valor": 4.77
+  },
+  {
+    "Login": "Tyaelistidru84",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "Rusty Skull",
+    "Valor": 1.2
+  },
+  {
+    "Login": "Tyaelly53",
+    "Idade": 20,
+    "Sexo": "Feminino",
+    "Item": "Crying Steel Sickle",
+    "Valor": 2.29
+  },
+  {
+    "Login": "Tyaelo67",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Fiery Glass Crusader",
+    "Valor": 4.45
+  },
+  {
+    "Login": "Tyaelo67",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Soul Infused Crystal",
+    "Valor": 1.03
+  },
+  {
+    "Login": "Tyaelorgue39",
+    "Idade": 27,
+    "Sexo": "Feminino",
+    "Item": "Celeste, Incarnation of the Corrupted",
+    "Valor": 2.31
+  },
+  {
+    "Login": "Tyaenasti87",
+    "Idade": 8,
+    "Sexo": "Masculino",
+    "Item": "Conqueror Adamantite Mace",
+    "Valor": 1.96
+  },
+  {
+    "Login": "Tyaeristi78",
+    "Idade": 24,
+    "Sexo": "Feminino",
+    "Item": "Alpha, Reach of Ending Hope",
+    "Valor": 1.55
+  },
+  {
+    "Login": "Tyaeristi78",
+    "Idade": 24,
+    "Sexo": "Feminino",
+    "Item": "Conqueror Adamantite Mace",
+    "Valor": 1.96
+  },
+  {
+    "Login": "Tyaerith73",
+    "Idade": 21,
+    "Sexo": "Outro",
+    "Item": "Dragon's Greatsword",
+    "Valor": 2.36
+  },
+  {
+    "Login": "Tyaili86",
+    "Idade": 17,
+    "Sexo": "Feminino",
+    "Item": "Stormfury Lantern",
+    "Valor": 1.28
+  },
+  {
+    "Login": "Tyalaesu89",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Stormcaller",
+    "Valor": 3.46
+  },
+  {
+    "Login": "Tyananurgue44",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Tyananurgue44",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Rage, Legacy of the Lone Victor",
+    "Valor": 4.32
+  },
+  {
+    "Login": "Tyarithn67",
+    "Idade": 28,
+    "Sexo": "Masculino",
+    "Item": "Orenmir",
+    "Valor": 4.95
+  },
+  {
+    "Login": "Tyeosri53",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Sleepwalker",
+    "Valor": 1.73
+  },
+  {
+    "Login": "Tyeosri53",
+    "Idade": 31,
+    "Sexo": "Masculino",
+    "Item": "Toothpick",
+    "Valor": 3.48
+  },
+  {
+    "Login": "Tyeosristi57",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Striker",
+    "Valor": 3.82
+  },
+  {
+    "Login": "Tyeuduen32",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Serenity",
+    "Valor": 1.49
+  },
+  {
+    "Login": "Tyeuduephos81",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Darkheart",
+    "Valor": 3.15
+  },
+  {
+    "Login": "Tyeuladeu30",
+    "Idade": 25,
+    "Sexo": "Feminino",
+    "Item": "The Decapitator",
+    "Valor": 4.82
+  },
+  {
+    "Login": "Tyeulisu40",
+    "Idade": 28,
+    "Sexo": "Masculino",
+    "Item": "Fate, Vengeance of Eternal Justice",
+    "Valor": 1.55
+  },
+  {
+    "Login": "Tyiaduenuru55",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Blade of the Grave",
+    "Valor": 1.69
+  },
+  {
+    "Login": "Tyida79",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Darkheart, Butcher of the Champion",
+    "Valor": 3.56
+  },
+  {
+    "Login": "Tyidainu31",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Blood Infused Guardian",
+    "Valor": 2.86
+  },
+  {
+    "Login": "Tyidue95",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Malificent Bag",
+    "Valor": 2.17
+  },
+  {
+    "Login": "Tyirithnu40",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Azurewrath",
+    "Valor": 2.22
+  },
+  {
+    "Login": "Tyirithnu40",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Extraction, Quickblade Of Trembling Hands",
+    "Valor": 3.39
+  },
+  {
+    "Login": "Tyisriphos58",
+    "Idade": 38,
+    "Sexo": "Masculino",
+    "Item": "Final Critic",
+    "Valor": 2.99
+  },
+  {
+    "Login": "Tyisriphos58",
+    "Idade": 38,
+    "Sexo": "Masculino",
+    "Item": "Reaper's Toll",
+    "Valor": 4.56
+  },
+  {
+    "Login": "Tyisur83",
+    "Idade": 32,
+    "Sexo": "Masculino",
+    "Item": "Thorn, Satchel of Dark Souls",
+    "Valor": 4.51
+  },
+  {
+    "Login": "Tyithesura58",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Frenzied Scimitar",
+    "Valor": 2.6
+  },
+  {
+    "Login": "Umuard36",
+    "Idade": 23,
+    "Sexo": "Feminino",
+    "Item": "Victor Iron Spikes",
+    "Valor": 3.55
+  },
+  {
+    "Login": "Undadar97",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Purgatory, Gem of Regret",
+    "Valor": 3.91
+  },
+  {
+    "Login": "Undadarla37",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Undare39",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Bonecarvin Battle Axe",
+    "Valor": 2.46
+  },
+  {
+    "Login": "Undast38",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Abyssal Shard",
+    "Valor": 2.04
+  },
+  {
+    "Login": "Undirra73",
+    "Idade": 23,
+    "Sexo": "Feminino",
+    "Item": "Stormcaller",
+    "Valor": 3.46
+  },
+  {
+    "Login": "Undirrala66",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Blood Infused Guardian",
+    "Valor": 2.86
+  },
+  {
+    "Login": "Undirrala66",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Faith's Scimitar",
+    "Valor": 3.82
+  },
+  {
+    "Login": "Undirrala66",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Piece Maker",
+    "Valor": 4.36
+  },
+  {
+    "Login": "Undirrala66",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Spectral Diamond Doomblade",
+    "Valor": 4.25
+  },
+  {
+    "Login": "Undirrala66",
+    "Idade": 29,
+    "Sexo": "Masculino",
+    "Item": "Torchlight, Bond of Storms",
+    "Valor": 1.77
+  },
+  {
+    "Login": "Undirrasta74",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Orbit",
+    "Valor": 1.16
+  },
+  {
+    "Login": "Undirrasta89",
+    "Idade": 21,
+    "Sexo": "Masculino",
+    "Item": "Crucifer",
+    "Valor": 2.53
+  },
+  {
+    "Login": "Undistasta86",
+    "Idade": 12,
+    "Sexo": "Masculino",
+    "Item": "Thunderfury Scimitar",
+    "Valor": 3.02
+  },
+  {
+    "Login": "Undiwinya88",
+    "Idade": 15,
+    "Sexo": "Masculino",
+    "Item": "Crucifer",
+    "Valor": 2.53
+  },
+  {
+    "Login": "Undjaskla97",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Mercenary Sabre",
+    "Valor": 4.57
+  },
+  {
+    "Login": "Undjasksya56",
+    "Idade": 9,
+    "Sexo": "Masculino",
+    "Item": "Expiration, Warscythe Of Lost Worlds",
+    "Valor": 4.53
+  },
+  {
+    "Login": "Undotesta33",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Persuasion",
+    "Valor": 3.45
+  },
+  {
+    "Login": "Wailin72",
+    "Idade": 35,
+    "Sexo": "Masculino",
+    "Item": "Abyssal Shard",
+    "Valor": 2.04
+  },
+  {
+    "Login": "Whaestysu86",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Warped Iron Scimitar",
+    "Valor": 4.08
+  },
+  {
+    "Login": "Yadacal26",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Shadow Strike, Glory of Ending Hope",
+    "Valor": 1.93
+  },
+  {
+    "Login": "Yadaisuir65",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Ritual Mace",
+    "Valor": 3.74
+  },
+  {
+    "Login": "Yadaisuir65",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "The Decapitator",
+    "Valor": 4.82
+  },
+  {
+    "Login": "Yadanun74",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Feral Katana",
+    "Valor": 2.19
+  },
+  {
+    "Login": "Yadanun74",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Splitter, Foe Of Subtlety",
+    "Valor": 3.61
+  },
+  {
+    "Login": "Yadanun74",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Worldbreaker",
+    "Valor": 3.29
+  },
+  {
+    "Login": "Yalaeria91",
+    "Idade": 16,
+    "Sexo": "Masculino",
+    "Item": "Wolf, Promise of the Moonwalker",
+    "Valor": 1.88
+  },
+  {
+    "Login": "Yaliru88",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Celeste",
+    "Valor": 3.71
+  },
+  {
+    "Login": "Yalo71",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Warped Fetish",
+    "Valor": 2.41
+  },
+  {
+    "Login": "Yalostiphos68",
+    "Idade": 15,
+    "Sexo": "Feminino",
+    "Item": "Renewed Skeletal Katana",
+    "Valor": 2.37
+  },
+  {
+    "Login": "Yaralnura48",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Alpha, Reach of Ending Hope",
+    "Valor": 1.55
+  },
+  {
+    "Login": "Yaralnura48",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Sun Strike, Jaws of Twisted Visions",
+    "Valor": 2.64
+  },
+  {
+    "Login": "Yararmol43",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Alpha, Reach of Ending Hope",
+    "Valor": 1.55
+  },
+  {
+    "Login": "Yarirarn35",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Alpha, Oath of Zeal",
+    "Valor": 2.88
+  },
+  {
+    "Login": "Yaristi64",
+    "Idade": 38,
+    "Sexo": "Masculino",
+    "Item": "Woeful Adamantite Claymore",
+    "Valor": 1.24
+  },
+  {
+    "Login": "Yarithllodeu72",
+    "Idade": 22,
+    "Sexo": "Masculino",
+    "Item": "Feral Katana",
+    "Valor": 2.19
+  },
+  {
+    "Login": "Yarithphos28",
+    "Idade": 25,
+    "Sexo": "Masculino",
+    "Item": "Betrayal, Whisper of Grieving Widows",
+    "Valor": 2.35
+  },
+  {
+    "Login": "Yarithsurgue62",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Nirvana",
+    "Valor": 1.11
+  },
+  {
+    "Login": "Yarithsurgue62",
+    "Idade": 7,
+    "Sexo": "Masculino",
+    "Item": "Vengeance Cleaver",
+    "Valor": 3.7
+  },
+  {
+    "Login": "Yarmol79",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Misery's End",
+    "Valor": 2.91
+  },
+  {
+    "Login": "Yarolwen77",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Arcane Gem",
+    "Valor": 2.23
+  },
+  {
+    "Login": "Yarolwen77",
+    "Idade": 24,
+    "Sexo": "Masculino",
+    "Item": "Hopeless Ebon Dualblade",
+    "Valor": 4.75
+  },
+  {
+    "Login": "Yasriphos60",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Brimstone",
+    "Valor": 2.52
+  },
+  {
+    "Login": "Yasriphos60",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Scalpel",
+    "Valor": 3.62
+  },
+  {
+    "Login": "Yasriphos60",
+    "Idade": 40,
+    "Sexo": "Masculino",
+    "Item": "Vindictive Glass Edge",
+    "Valor": 4.26
+  },
+  {
+    "Login": "Yasrisu92",
+    "Idade": 39,
+    "Sexo": "Feminino",
+    "Item": "Frenzied Scimitar",
+    "Valor": 2.6
+  },
+  {
+    "Login": "Yasur35",
+    "Idade": 19,
+    "Sexo": "Masculino",
+    "Item": "Stormcaller",
+    "Valor": 3.46
+  },
+  {
+    "Login": "Yasur85",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Thorn, Conqueror of the Corrupted",
+    "Valor": 2.04
+  },
+  {
+    "Login": "Yasurra52",
+    "Idade": 22,
+    "Sexo": "Feminino",
+    "Item": "Eternal Cleaver",
+    "Valor": 3.14
+  },
+  {
+    "Login": "Yathecal72",
+    "Idade": 32,
+    "Sexo": "Masculino",
+    "Item": "Restored Bauble",
+    "Valor": 3.11
+  },
+  {
+    "Login": "Yathecal72",
+    "Idade": 32,
+    "Sexo": "Masculino",
+    "Item": "Warped Diamond Crusader",
+    "Valor": 4.66
+  },
+  {
+    "Login": "Yathecal82",
+    "Idade": 23,
+    "Sexo": "Masculino",
+    "Item": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Valor": 2.41
+  },
+  {
+    "Login": "Zhisrisu83",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Curved Axe",
+    "Valor": 1.35
+  },
+  {
+    "Login": "Zhisrisu83",
+    "Idade": 17,
+    "Sexo": "Masculino",
+    "Item": "Nirvana",
+    "Valor": 1.11
+  },
+  {
+    "Login": "Zontibe81",
+    "Idade": 20,
+    "Sexo": "Masculino",
+    "Item": "Celeste",
+    "Valor": 3.71
+  }
+]
